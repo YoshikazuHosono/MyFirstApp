@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My First App</string>
+    <string name="edit_message">ここに文字を入力してね</string>
+    <string name="button_send">送信</string>
 </resources>
